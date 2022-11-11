@@ -8,3 +8,5 @@ To run this project on your machine, please type in cmd:
 ```
 node app.js
 ```
+
+:)
