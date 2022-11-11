@@ -3,7 +3,7 @@
 > Project status: In development
 
 
-To run this project on your machine, please write in cmd:
+To run this project on your machine, please typein cmd:
 
 ```
 npm install dotnet
