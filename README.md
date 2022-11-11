@@ -6,5 +6,5 @@
 To run this project on your machine, please type in cmd:
 
 ```
-npm install dotnet
+node app.js
 ```
